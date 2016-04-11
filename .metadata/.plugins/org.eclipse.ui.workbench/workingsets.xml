@@ -6,4 +6,5 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ComprasPersistence" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ComprasBusiness" type="4"/>
 </workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1460403062978_1" label="Window Working Set" name="Aggregate for window 1460403062978"/>
 </workingSetManager>

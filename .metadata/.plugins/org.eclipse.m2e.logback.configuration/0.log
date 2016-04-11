@@ -69,3 +69,32 @@
 2016-04-11 16:25:12,045 [main] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
 2016-04-11 16:25:12,046 [main] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy4087025486660461953.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_5703504921335111523.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
 2016-04-11 16:25:12,046 [main] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2016-04-11 16:31:07,838 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-04-11 16:31:10,407 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.magm.web:Web:1.0-SNAPSHOT @ /home/ubuntu/Seminario/Web/pom.xml.
+2016-04-11 16:31:12,560 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Web/src/main/java
+2016-04-11 16:31:12,599 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Web/src/test/java
+2016-04-11 16:31:14,366 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Web
+2016-04-11 16:31:14,386 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2016-04-11 16:31:15,756 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-11 16:31:15,790 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/Core/src/main/resources
+2016-04-11 16:31:15,794 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-11 16:31:15,794 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/Core/src/test/resources
+2016-04-11 16:31:16,863 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-11 16:31:16,863 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/ComprasModel/src/main/resources
+2016-04-11 16:31:16,866 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-11 16:31:16,866 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/ComprasModel/src/test/resources
+2016-04-11 16:31:16,982 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-11 16:31:16,983 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/ComprasPersistence/src/main/resources
+2016-04-11 16:31:16,984 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-11 16:31:16,984 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/ComprasPersistence/src/test/resources
+2016-04-11 16:31:17,123 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-11 16:31:17,124 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/ComprasBusiness/src/main/resources
+2016-04-11 16:31:17,129 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-11 16:31:17,130 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/ComprasBusiness/src/test/resources
+2016-04-11 16:31:19,977 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-11 16:31:19,977 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/Web/src/main/resources
+2016-04-11 16:31:19,979 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-11 16:31:19,980 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/Web/src/test/resources
+2016-04-11 16:31:19,980 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Web
+2016-04-11 16:31:19,981 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Web
+2016-04-11 16:31:20,014 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
