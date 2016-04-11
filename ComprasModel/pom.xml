@@ -4,8 +4,13 @@
 
 	<groupId>com.magm.compras.model</groupId>
 	<artifactId>ComprasModel</artifactId>
-	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
+<parent>
+    <groupId>com.magm.compras</groupId>
+    <artifactId>Compras</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <relativePath>../Compras/pom.xml</relativePath>
+</parent>
 
  
 	<properties>
