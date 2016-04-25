@@ -435,3 +435,18 @@
 2016-04-19 13:32:36,353 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/Web/src/main/resources
 2016-04-19 13:32:36,368 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-04-19 13:32:36,368 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/Web/src/test/resources
+2016-04-25 13:51:26,378 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-25 13:51:26,402 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/Web/src/main/resources
+2016-04-25 13:51:26,405 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-25 13:51:26,405 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/Web/src/test/resources
+2016-04-25 14:39:17,508 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-25 14:39:17,508 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/ComprasModel/src/main/resources
+2016-04-25 14:39:17,521 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-25 14:39:17,521 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/ComprasModel/src/test/resources
+2016-04-25 14:57:21,853 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-25 14:57:21,854 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/ComprasModel/src/main/resources
+2016-04-25 14:57:21,856 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-25 14:57:21,858 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Seminario/ComprasModel/src/test/resources
+2016-04-25 15:14:08,745 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-25 15:14:39,808 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ubuntu/Seminario/Compras
+2016-04-25 15:14:39,834 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package
