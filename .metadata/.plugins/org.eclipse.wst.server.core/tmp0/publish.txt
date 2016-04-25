@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Mon Apr 25 16:49:31 ART 2016
+org.eclipse.jst.jee.server\:/binary\:/home/ubuntu/.m2/repository/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar=WEB-INF/lib/spring-web-4.2.5.RELEASE.jar
+org.eclipse.jst.j2ee.server\:ComprasPersistence=WEB-INF/lib/ComprasPersistence-1.0-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:ComprasBusiness=WEB-INF/lib/ComprasBusiness-1.0-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:ComprasModel=WEB-INF/lib/ComprasModel-1.0-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:Core=WEB-INF/lib/Core-1.0-SNAPSHOT.jar
